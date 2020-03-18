@@ -7,3 +7,9 @@ fight against Covid19
 2) **Wybierz** oddział szpitala
 3) **Napisz** czego potrzeba
 4) **Wyślij!**
+
+![main-skeleton](https://github.com/mbiesiad/szpitale-w-potrzebie/blob/master/workspace/main-skeleton.png)
+
+Podziel się dobrem.
+
+**Podaj dalej!**
