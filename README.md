@@ -1,7 +1,7 @@
 # szpitale-w-potrzebie [WIP]
 _fight against Covid19_
 
-## Wstępny zarys, szkielet
+## Wstępny zarys, szkielet - projekt Otwarty
 
 ## Projekt mający na celu pomoc polskim szpitalom w walce z Covid-19. ##
 
