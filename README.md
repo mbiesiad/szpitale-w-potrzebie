@@ -15,3 +15,6 @@ _fight against Covid19_
 Podziel się dobrem.
 
 **Podaj dalej!**
+
+_______________________________
+Update: Zmiana z private na public. Tmp-frozen. See fb group is OK
